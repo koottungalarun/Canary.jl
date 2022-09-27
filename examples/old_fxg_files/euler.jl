@@ -3,7 +3,7 @@
 
 # FIXME: Be consistent with tuple assignments (either with or without parens)
 #
-# FIXME: Add logging
+# FIXME: Add logging 
 
 # FIXME: Add link to https://github.com/paranumal/libparanumal here and in
 # advection (also update the license)
